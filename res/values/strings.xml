@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">開機音效</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="music">
+        <item>關閉</item>
+        <item>預設音效1</item>
+        <item>預設音效2</item>
+        <item>自訂音效</item>
+    </string-array>
+
+</resources>
